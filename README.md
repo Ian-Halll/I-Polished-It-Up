@@ -5,11 +5,11 @@ This is a website created to host various resources on SEO(Search Engine Optimiz
 
 ## How To Install
 
-The source code can be accessed at https://github.com/Ian-Halll/Code-Refactor, otherwise it can be accessed from within your browser at *INSERT*
+The source code can be accessed at https://github.com/Ian-Halll/Code-Refactor, otherwise it can be accessed from within your browser at (https://ian-halll.github.io/I-Polished-It-Up/)
 
 ## Using the website
 
-Using a browser, go to *INSERT*, from there you can navigate the various sections of the website using the links within the header
+Using a browser, go to https://ian-halll.github.io/I-Polished-It-Up/, from there you can navigate the various sections of the website using the links within the header
 
 ## License
 MIT License
